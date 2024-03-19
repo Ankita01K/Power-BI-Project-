@@ -19,8 +19,8 @@ The dashboard provides comprehensive insights into customer behavior, geographic
 
 ### **Orders CSV Dataset**
 
-|-|-|
 |Column Name|Description|
+|-|-|
 |Order ID|A unique identifier for each order.|
 |Order Date|The date when the order was placed.|
 |Customer Name|The name of the customer placing the order.|
@@ -29,8 +29,8 @@ The dashboard provides comprehensive insights into customer behavior, geographic
 
 ### **Details CSV Dataset**
 
-|-|-|
 |Column Name|Description|
+|-|-|
 |Order ID|A unique identifier matching the order with the "Orders CSV" dataset.|
 |Amount|The total amount of the order.|
 |Profit|The profit generated from the order.|
