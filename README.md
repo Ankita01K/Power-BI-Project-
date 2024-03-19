@@ -41,13 +41,14 @@ The dashboard provides comprehensive insights into customer behavior, geographic
 
 ## **Insights**
 
-**Product Insights**: Majority of customers spent the maximum amounts on purchasing products like clothing (63%), electronics (21%), and furniture (17%) (Printers, Bookcases, Saree, etc).
+**Product Insights:** Majority of customers spent the maximum amounts on purchasing products like clothing (63%), electronics (21%), and furniture (16%)(Printers, Bookcases, Saree, etc).
 
-**Seasonal Profitability**: The store generates maximum profits from the months of January to April and December.
+**Seasonal Profitability:** The store generates maximum profits from the months of January to April and November.
 
-**Geographical Analysis**: Top three states for product buyers are Maharashtra, Madhya Pradesh, and Uttar Pradesh.
+**Geographical Analysis:** Top three states for product buyers are Maharashtra, Madhya Pradesh, and Uttar Pradesh.
 
 **Top Customers:** Top three product buyers identified as Harivansh, Madhav, and Madan Mohan.
 
-**Payment Preferences**: Customers predominantly use Cash on Delivery (44%) and UPI (21%) as modes of payment.
+**Payment Preferences:** Customers predominantly use Cash on Delivery (49%) and UPI (23%),Debit card(15%) and credit Card(13%) as modes of payment.
+
 
